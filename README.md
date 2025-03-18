@@ -1,3 +1,12 @@
+
+# maengproject
+
+- Bmarket.html 추가
+- fresh.html 추가
+- ice.html 추가
+- rice.html 추가
+- snack.html 추가
+=======
 # <maengproject>
 
 ## 구성원: 이은우, 노우정, 맹민재, 김준영
@@ -10,3 +19,4 @@
 - 노우정 : CS 담당
 - 맹민재 : 메뉴 담당
 - 김준영 : B마트 담당
+
