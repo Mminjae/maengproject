@@ -1,4 +1,4 @@
-# maengproject
+# maengproject ( 깃허브 특강 프로젝트 )
 
 - Bmarket.html 추가
 - fresh.html 추가
